@@ -1,0 +1,48 @@
+# Eclipse
+.classpath
+.project
+.metadata
+.settings
+
+# IntelliJ
+.idea
+*.iml
+
+# Android Studio
+.navigation/
+captures/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# generated files
+bin/
+gen/
+out/
+classes/
+gen-external-apklibs/
+
+# class files
+*.class
+
+# build
+*.apk
+*.ap_
+*.jar
+!gradle/wrapper/gradle-wrapper.jar
+
+# gradle directory
+.gradle
+build/
+
+# Log Files
+*.log
+
+# Keystore files
+*.jks
+
+# C++ build files
+.externalNativeBuild
+
+# backup files
+*.bak

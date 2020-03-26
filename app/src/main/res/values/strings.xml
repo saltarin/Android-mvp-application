@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MvpApplication</string>
+    <string name="enter_note">Enter note...</string>
+    <string name="to_do">to do</string>
+    <string name="save">save</string>
+    <string name="date">25 marzo</string>
+</resources>
